@@ -9,6 +9,8 @@
 /node_modules
 
 # IDEs and editors
+*.swp
+**/*.swp
 /.idea
 .project
 .classpath
